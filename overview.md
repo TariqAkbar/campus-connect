@@ -5,6 +5,7 @@
 - Student Profiles
 - Campus Events
 - Student Communities
+- Chat and Messaging
 - Study Groups
 - Campus Announcments
 
