@@ -1,13 +1,8 @@
-# Campus Connect
+# Team
 
-Event date: To be confirmed.
-Venue: To be confirmed.
-Organisers: To be confirmed.
-
-## Purpose
-
-Bring students together through a welcoming campus event.
-
-## Planning documents
-
-The group will add its planning documents during the practical.
+| Member | Name | GitHub username | Responsibility |
+| --- | --- | --- | --- |
+| 1 | Name | TariqAkbar | Overview |
+| 2 | Name | nicole-sim | Programme |
+| 3 | Name | Username | Publicity |
+| 4 | Name | Username | Logistics |
