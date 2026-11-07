@@ -12,4 +12,6 @@
 # Questions for discussion
 1. Which social media platform do most students in our group actually use?
 2. Should the poster design be done by the team or requested from a design club?
-Assumption: the event has a registration form available by the time publicity starts.
+
+# Assumption
+The event has a registration form available by the time publicity starts.
