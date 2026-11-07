@@ -5,4 +5,4 @@
 | 1 | Name | TariqAkbar | Overview |
 | 2 | Name | TariqAkbar | Programme |
 | 3 | Name | nicole-sim | Publicity |
-| 4 | Name | Username | Logistics |
+| 4 | Name | nicole-sim | Logistics |
